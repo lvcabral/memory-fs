@@ -1,6 +1,6 @@
 # memory-fs
 
-> DEPRECATED: use [memfs](https://github.com/streamich/memfs) instead.
+> FORK INFO: Created to support `brs-engine` project.
 
 A simple in-memory filesystem. Holds data in a javascript object.
 
