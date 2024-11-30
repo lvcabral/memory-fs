@@ -1,6 +1,6 @@
 {
-  "name": "memory-fs",
-  "version": "0.5.0",
+  "name": "@lvcabral/memory-fs",
+  "version": "0.5.1",
   "description": "A simple in-memory filesystem. Holds data in a javascript object.",
   "main": "lib/MemoryFileSystem.js",
   "directories": {
@@ -20,18 +20,21 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/webpack/memory-fs.git"
+    "url": "https://github.com/lvcabral/memory-fs.git"
   },
   "keywords": [
     "fs",
     "memory"
   ],
   "author": "Tobias Koppers @sokra",
+	"contributors": [
+		"Marcelo Lv Cabral <marcelo@lvcabral.com>"
+	],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/webpack/memory-fs/issues"
+    "url": "https://github.com/lvcabral/memory-fs/issues"
   },
-  "homepage": "https://github.com/webpack/memory-fs",
+  "homepage": "https://github.com/lvcabral/memory-fs",
   "devDependencies": {
     "bl": "^1.0.0",
     "codecov.io": "^0.1.4",
