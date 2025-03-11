@@ -1,6 +1,9 @@
 # memory-fs
 
-> FORK INFO: Created to support `brs-engine` project.
+[![NPM Version](https://img.shields.io/npm/v/%40lvcabral%2Fmemory-fs)](https://www.npmjs.com/package/@lvcabral/memory-fs)
+[![GitHub](https://img.shields.io/github/license/lvcabral/terminal)](./LICENSE)
+
+> FORK INFO: Created to support [brs-engine](https://github.com/lvcabral/brs-engine) project.
 
 A simple in-memory filesystem. Holds data in a javascript object.
 
