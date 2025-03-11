@@ -3,6 +3,7 @@
   "version": "0.5.1",
   "description": "A simple in-memory filesystem. Holds data in a javascript object.",
   "main": "lib/MemoryFileSystem.js",
+  "types": "../../@types/memory-fs/index.d.ts",
   "directories": {
     "test": "test"
   },
@@ -28,7 +29,7 @@
   ],
   "author": "Tobias Koppers @sokra",
 	"contributors": [
-		"Marcelo Lv Cabral <marcelo@lvcabral.com>"
+		"Marcelo Lv Cabral @lvcabral"
 	],
   "license": "MIT",
   "bugs": {
